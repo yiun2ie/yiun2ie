@@ -9,5 +9,5 @@
 
 
 
- <p align=center> <img src=https://komarev.com/ghpvc/?username=yiun&color=829173&style=flat-square&label=୨ৎ>
+ <p align=center> <img src=https://komarev.com/ghpvc/?username=yiun&color=FE5C5C&style=flat-square&label=୨ৎ>
  
