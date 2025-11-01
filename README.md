@@ -1,4 +1,4 @@
-• 🎀
+• 🍞
 
 
 
@@ -7,7 +7,7 @@
 
 
 
-• 🎀
+• 🍞
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31gnhgtuo6hcxjfjmpea3akskc4i&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=ab2929&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31gnhgtuo6hcxjfjmpea3akskc4i&redirect=true)
 
@@ -16,5 +16,5 @@
 
 
 
- <p align=center> <img src=https://komarev.com/ghpvc/?username=yiun&color=FE5C5C&style=flat-square&label=୨ৎ>
+ <p align=center> <img src=https://komarev.com/ghpvc/?username=yiun&color=FBF4E4&style=flat-square&label=୨ৎ>
  
