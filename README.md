@@ -3,7 +3,7 @@
 
 
 
-- i hate you .
+- i hate myself. 
 
 
 
