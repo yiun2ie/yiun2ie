@@ -3,7 +3,7 @@
 
 
 
-- i hate myself. 
+- dni.
 
 
 
