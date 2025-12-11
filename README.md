@@ -5,7 +5,8 @@
 
 - pipu
 
-![e39866fa84b6fa2bd98fdebf2468a3d3](https://github.com/user-attachments/assets/b0932da6-13f1-4b21-b932-008b6cf9195a)
+<img width="736" height="485" alt="Không Có Tiêu Đề251_20251211214100" src="https://github.com/user-attachments/assets/8c220172-07d8-4f1c-be0c-990863dd1ea4" />
+
 
 
 
